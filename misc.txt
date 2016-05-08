@@ -1,0 +1,22 @@
+
+QT:
+
+SUDO APT-GET INSTALL PYTHON3-PYQT4
+
+SUDO APT-GET INSTALL QT4-DESIGNER
+
+
+http://www.rspilab.com/gui-control-of-raspberry-pi-gpio-designed-with-qt-creator-in-raspbian/
+
+
+
+
+Plotly :
+
+http://adilmoujahid.com/posts/2015/07/practical-introduction-iot-arduino-nodejs-plotly/
+
+
+PUBNUB : 
+
+https://www.pubnub.com/blog/2015-08-04-tutorial-building-raspberry-pi-smart-home-part-1/
+
