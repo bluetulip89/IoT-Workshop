@@ -1,12 +1,20 @@
+Blinky program:
 
-QT:
-
-SUDO APT-GET INSTALL PYTHON3-PYQT4
-
-SUDO APT-GET INSTALL QT4-DESIGNER
+http://www.thirdeyevis.com/pi-page-2.php
 
 
-http://www.rspilab.com/gui-control-of-raspberry-pi-gpio-designed-with-qt-creator-in-raspbian/
+
+
+
+
+wxpython:
+
+http://zetcode.com/wxpython/gdi/
+
+Tkinter :
+
+http://educ8s.tv/wp-content/uploads/2015/12/gui.zip
+
 
 
 
@@ -20,3 +28,12 @@ PUBNUB :
 
 https://www.pubnub.com/blog/2015-08-04-tutorial-building-raspberry-pi-smart-home-part-1/
 
+
+QT:
+
+SUDO APT-GET INSTALL PYTHON3-PYQT4
+
+SUDO APT-GET INSTALL QT4-DESIGNER
+
+
+http://www.rspilab.com/gui-control-of-raspberry-pi-gpio-designed-with-qt-creator-in-raspbian/
