@@ -10,3 +10,8 @@ IOT_playground:
 
 http://iot-playground.com/blog/2-uncategorised/12-internet-controlled-switch
 
+
+Webpage guages : 
+
+http://ictoblog.nl/raspberry-pi/arduino-raspberry-pi-measuring-temperature-and-humidity
+
