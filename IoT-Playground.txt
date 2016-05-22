@@ -1,4 +1,12 @@
 IOT Dashboard:
 
+Pubnub:
+
 https://www.pubnub.com/blog/2015-08-04-tutorial-building-raspberry-pi-smart-home-part-1/
+
+
+IOT_playground:
+
+
+http://iot-playground.com/blog/2-uncategorised/12-internet-controlled-switch
 
